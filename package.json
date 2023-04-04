@@ -16,7 +16,7 @@
     "start": "react-native start",
     "rollup": "rm -rf dist && rollup -c"
   },
-  "peerDepencies": {
+  "peerDependencies": {
     "react": "18.2.0",
     "react-native": "0.71.6"
   },
@@ -38,7 +38,7 @@
     "@storybook/react-native": "^6.5.2",
     "@tsconfig/react-native": "^2.0.2",
     "@types/jest": "^29.2.1",
-    "@types/react": "^18.0.24",
+    "@types/react": "^18.0.33",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.2.1",
     "babel-loader": "^8.3.0",

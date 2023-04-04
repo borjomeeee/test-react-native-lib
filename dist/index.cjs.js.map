@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs.js","sources":["../src/components/Button.tsx"],"sourcesContent":[null],"names":["title","titleStyle","props","_jsx","jsx","TouchableOpacity","Text","style","children"],"mappings":"yFAa6C,EAC3CA,QACAC,gBACGC,KAGDC,EAACC,IAAAC,EAAgBA,iBAAK,IAAAH,WACpBC,EAACC,IAAAE,EAAIA,KAAC,CAAAC,MAAON,EAAUO,SAAGR"}
